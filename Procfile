@@ -1,0 +1,1 @@
+web: gunicorn WebSalomon.wsgi --log-file -
